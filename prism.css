@@ -1,0 +1,33 @@
+
+    
+
+
+.navbar ul{
+    list-style: none;
+    background: rgb(224, 157, 145);
+    overflow: auto;
+    border-radius: 30px;
+
+    
+
+}
+.navbar li a {
+    text-decoration: none;
+    color: black;
+        float: left;
+        margin: 15px 11px;
+    }
+   body{
+       background-image: url('https://media.istockphoto.com/vectors/brother-and-sister-rakhi-festival-of-raksha-bandhan-background-vector-id1164501322?k=6&m=1164501322&s=612x612&w=0&h=DYw7G7-LetwCnU4swfMz4QlJ7mzfoU63hGgtCtET_cY=');
+       background-repeat: no-repeat;
+       background-size: 1370px 699px;
+   }
+   #heading{
+       font-family: cursive;
+       font-weight: bold;
+   }
+   a:hover{
+     
+       background-color: red;
+   }
+
